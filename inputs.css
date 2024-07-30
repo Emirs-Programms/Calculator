@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 500px;
+    margin: 30px auto;
+}
+
+h1{
+    position: relative;
+    left: 63px;
+}
+#one{
+    width: 130px;
+    height: 20px;
+    position: relative;
+    left: 30px;
+    text-align: center;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#tree{
+    width: 130px;
+    height: 20px;
+    margin: 20px;
+    position: relative;
+    left: 20px;
+    text-align: center;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.input{
+    margin: 40px auto;
+}
+
+button{
+ width: 40px;
+ height: 40px;
+ margin: 10px;
+ position: relative;
+ right: 10px;
+}
